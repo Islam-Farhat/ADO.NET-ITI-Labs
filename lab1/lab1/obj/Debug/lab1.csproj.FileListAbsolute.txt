@@ -1,0 +1,11 @@
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\bin\Debug\lab1.exe.config
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\bin\Debug\lab1.exe
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\bin\Debug\lab1.pdb
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.csproj.AssemblyReference.cache
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.csproj.SuggestedBindingRedirects.cache
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.Form1.resources
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.Properties.Resources.resources
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.csproj.GenerateResource.cache
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.exe
+D:\ITI-9-Months\22- EF\Day1\lab1\lab1\obj\Debug\lab1.pdb

@@ -1,0 +1,12 @@
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.Disconnected.resources
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.Properties.Resources.resources
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\bin\Debug\lab2.exe.config
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\bin\Debug\lab2.exe
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\bin\Debug\lab2.pdb
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.exe
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.pdb
+D:\ITI-9-Months\22- EF\Day2\lab2\lab2\obj\Debug\lab2.Layers.resources
